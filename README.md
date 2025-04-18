@@ -17,10 +17,12 @@ kernel- software that makes it easier to communicate with hardware
 ---
 
 Hypervisor: It is a software that makes virtualization possible. So with this we can run multiple VMs on same hardware.   
-- Type1 Hypervisor :   
-<img width="687" alt="image" src="https://github.com/user-attachments/assets/13457f1e-1f27-4caf-9545-b897de97337a" />
 
+- Type1 Hypervisor :   
 - Type2 Hypervisor :
-<img width="746" alt="image" src="https://github.com/user-attachments/assets/c4c75cee-42ea-4665-b7f6-c7f0ec891e99" />
+
+
+
+
 
  
