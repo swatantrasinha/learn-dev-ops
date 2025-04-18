@@ -18,8 +18,17 @@ kernel- software that makes it easier to communicate with hardware
 
 Hypervisor: It is a software that makes virtualization possible. So with this we can run multiple VMs on same hardware.   
 
-- Type1 Hypervisor :   
-- Type2 Hypervisor :
+- Type1 Hypervisor :   also called bare-metal   
+<img width="389" alt="image" src="https://github.com/user-attachments/assets/9328ad3c-cbea-4595-aae7-0ab9123a7f8a" />
+
+- Type2 Hypervisor : It has additional host OS . Example- Virtual Box      
+  
+Type1 vs Type2 Hypervisor is below:   
+<img width="418" alt="image" src="https://github.com/user-attachments/assets/c70bd6d0-802c-41b9-b144-77995666956c" />    
+
+
+---
+
 
 
 
