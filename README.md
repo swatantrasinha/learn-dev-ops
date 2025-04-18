@@ -8,4 +8,11 @@
 
 ---
 
-kernel- software that makes it easier to communicate with hardware
+kernel- software that makes it easier to communicate with hardware   
+
+<img width="178" alt="image" src="https://github.com/user-attachments/assets/f7830791-3a68-4d14-b341-41edcfdf0fc1" />   
+
+<ins>Note: </ins> the kernel here is linux
+
+---
+
