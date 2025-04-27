@@ -1,5 +1,5 @@
 
-[back-to-main](../README.md)        [Next Chapter](../chapter-02/README.md)
+[back-to-main](../README.md)        [Next Lecture](../lecture-02/README.md)
 
  # Introduction to devOps and Linux Basics   
 
