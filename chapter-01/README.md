@@ -1,6 +1,5 @@
 
-Link to main page : [back-to-main](../README.md)
-[Chapter-02](../chapter-02/README.md)
+[back-to-main](../README.md)        [Next Chapter](../chapter-02/README.md)
 
  # Introduction to devOps and Linux Basics   
 
